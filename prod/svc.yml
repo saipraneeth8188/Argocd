@@ -5,10 +5,9 @@ metadata:
 spec:
   selector:
     app: lwapp1
-  type: NodePort
   ports:
     - protocol: TCP
       port: 80
       targetPort: 80
-      nodePort: 30036  # Optional: customize port in range 30000–32767
+  type: NodePort
 
