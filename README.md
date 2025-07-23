@@ -1,1 +1,1 @@
-# argocd_training_2024_code 2025
+# argocd_handson_practice_2025
